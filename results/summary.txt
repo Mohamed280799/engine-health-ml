@@ -1,0 +1,11 @@
+cv_rmse: 20.030
+cv_interval_coverage: 0.803
+test_rmse: 21.880
+test_mae: 15.365
+test_interval_coverage: 0.790
+mean_interval_width: 42.690
+virtual_sensor_target: s9
+healthy_cv_mae: 3.994
+healthy_residual_sigma: 4.998
+residual_early_life: -0.419
+residual_end_of_life: 11.397
